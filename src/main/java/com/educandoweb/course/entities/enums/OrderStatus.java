@@ -14,7 +14,7 @@ public enum OrderStatus {
         this.code = code;
     }
 
-    public int getCode(){
+    public int getCode() {
         return code;
     }
 
