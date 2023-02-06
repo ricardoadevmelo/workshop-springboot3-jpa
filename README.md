@@ -28,10 +28,12 @@ Para o panorama do projeto, utilizou-se as ferramentas como o Spring Boot, o fra
 
 ## Modelos conceituais:
 
-:one: <br /> <br />
+<br />
+
 ![Modelo Conceitual](https://github.com/ricardoadevmelo/assets/blob/main/workshop-springboot3-jpa/Domain%20Model%20.jpg) <br />
 
-:two: <br /> <br />
+<br />
+
 ![Modelo Conceitual](https://github.com/ricardoadevmelo/assets/blob/main/workshop-springboot3-jpa/Domain%20Instance%20.jpg) <br />
 
 # Tecnologias utilizadas:
